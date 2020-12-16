@@ -9,7 +9,7 @@ These are the two main ways of taking payments with Stripe.
 
 Checkout means the transactions take place on Stripe's server. As they put it "We built Checkout so you don’t have to". It's useful, but also kinda locks you into managing product information with Stripe. 
 
-Payment intent it's slightly more work but allows for allows for complete customisation and freedom to store the product information elsewhere. 
+Payment intent it's slightly more work but allows for complete customisation and freedom to store the product information elsewhere. 
 
 I've wrapped these two functions with some methods that allow for easy calculation of shipping and general settings.
 
