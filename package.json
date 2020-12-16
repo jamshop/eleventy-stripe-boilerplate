@@ -1,9 +1,9 @@
 {
-  "name": "eleventy-stripe-boilerplate",
+  "name": "@jamshop/eleventy-stripe-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "main": "get-cart-data.js",
   "scripts": {
+    "start": "eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mike@madebymike.com.au",
